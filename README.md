@@ -51,3 +51,5 @@ thousand installed agent skills guesses wrong about which one fits the job, and 
 silently fills with translated copies of the same file.
 
 <sub>Open to collaboration on infrastructure, security and developer-tooling projects.</sub>
+
+<sub>Each repository carries its own licence — MIT for most, GPL-3.0 or AGPL-3.0 where noted in its LICENSE file.</sub>
