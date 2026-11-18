@@ -20,14 +20,13 @@ Linux servers, data-center operations, and the WordPress/WooCommerce side of the
 | **[skill-router](https://github.com/cangurel81/skill-router)** | Indexes and searches a large agent-skill catalogue, and reports the duplicate/translated copies nobody notices. Zero dependencies, Node 18+. |
 | **[WOL-Manager](https://github.com/cangurel81/WOL-Manager)** | Wake-on-LAN manager for waking and tracking remote machines from Windows. |
 | **[WARP-Manager](https://github.com/cangurel81/WARP-Manager)** | Automates IP rotation through Cloudflare WARP — one click per endpoint. |
-| **[LinuXplore](https://github.com/cangurel81/LinuXplore-Linux-Distro-Downloader)** | Desktop app to browse and download Linux distributions without hunting for mirrors. |
+| **[LinuXplore](https://github.com/cangurel81/LinuXplore)** | Desktop app to browse 69 Linux distributions and open each project's official download page — no mirror hunting. |
 | **[Cyber-Test](https://github.com/cangurel81/Cyber-Test)** | Server security testing suite: headers, TLS posture, exposure checks, database connectivity. |
 | **[GMapsX](https://github.com/cangurel81/GMapsX)** | Exports Google Maps business data — name, rating, address, phone, site — to Excel, PDF or TXT. |
 
 A few smaller ones: **[GeolyX](https://github.com/cangurel81/GeolyX)** (Google UULE encoder for all 81
-provinces of Türkiye), **[NethyX](https://github.com/cangurel81/NethyX-Proxy-Scraper)** (multi-source
-proxy scraper and tester), **[AgentX](https://github.com/cangurel81/AgentX-UA-Generator)** (realistic
-User-Agent generator), **[Cookie-Generator](https://github.com/cangurel81/Cookie-Generator)** and
+provinces of Türkiye), **[NethyX](https://github.com/cangurel81/Nethyx)** (multi-source proxy scraper
+and tester), **[Agentx](https://github.com/cangurel81/Agentx)** (realistic User-Agent generator) and
 **[Daily-Session-Saver](https://github.com/cangurel81/Daily-Session-Saver)** (Firefox session backups).
 
 ## Toolbox
